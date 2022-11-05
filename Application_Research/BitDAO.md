@@ -6,8 +6,6 @@ category: Research
 tags: Grants
 ---
 
-[![hackmd-github-sync-badge](https://hackmd.io/Re7J02cjT_SQ9iwRI712Jg/badge)](https://hackmd.io/Re7J02cjT_SQ9iwRI712Jg)
-
 ## Notes from BitDAO Docs
 
 ### What kind of projects will BitDAO provide grants to? Why would BitDAO do this?**
