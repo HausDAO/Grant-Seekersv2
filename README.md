@@ -28,3 +28,5 @@ tags: [Grants, In progress, Complete, etc]
 + [Figma File](https://www.figma.com/file/7eynq86yXsLCZz2pmIecWM/Grant-Applications?node-id=0%3A1)
 
 This repo will have an associated project which is meant to allow for contributors to assist DAOhaus receive grants in order to aide in fulfulling DAOhaus' goal of being an open source public good.
+
+The WIKI is a copy of this [AwesomeDAO](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations) which is a curated list of DAO tools and resources.
