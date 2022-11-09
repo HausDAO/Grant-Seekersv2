@@ -30,3 +30,11 @@ tags: [Grants, In progress, Complete, etc]
 This repo will have an associated project which is meant to allow for contributors to assist DAOhaus receive grants in order to aide in fulfulling DAOhaus' goal of being an open source public good.
 
 The WIKI is a copy of this [AwesomeDAO](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations) which is a curated list of DAO tools and resources.
+
+
+Want to support DAOhaus as a public good, one way would be to a contributor to the Grant Seekers DAO.
+Say hi in the DAOhaus discord and someone there should point you in the right direction.
+https://discord.gg/3drjHWWcRa
+
+DAO (Gnosis Chain): https://app.daohaus.club/dao/0x64/0xcb4748e389a14ee7c674183a7a0f94a04ddd420f
+Gnosis Safe: eth:0x543e05273BA01Eaf29d4Fd789E83cce911AAc5d2
